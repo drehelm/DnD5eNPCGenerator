@@ -1,0 +1,207 @@
+{
+  "human": {
+    "male": [
+      "Adam", "Adrian", "Alan", "Albert", "Alexander", "Andrew", "Anthony", "Arthur", 
+      "Benjamin", "Bernard", "Blake", "Brandon", "Brian", "Bruce", "Byron",
+      "Caleb", "Carl", "Charles", "Christopher", "Colin", "Connor", "Curtis",
+      "Daniel", "Darren", "David", "Derek", "Dominic", "Donald", "Douglas", "Duncan",
+      "Edward", "Elijah", "Elliott", "Eric", "Ethan", "Evan",
+      "Felix", "Francis", "Frederick",
+      "Gabriel", "Gareth", "Geoffrey", "George", "Gerald", "Gilbert", "Gordon", "Graham", "Gregory",
+      "Harold", "Harry", "Henry", "Howard", "Hugh", "Hugo",
+      "Ian", "Isaac", "Isaiah",
+      "Jack", "Jacob", "James", "Jason", "Jeffrey", "Jeremy", "Jerome", "Jesse", "John", "Jonathan", "Joseph", "Joshua", "Julian", "Justin",
+      "Keith", "Kenneth", "Kevin",
+      "Lawrence", "Leonard", "Lewis", "Louis", "Lucas", "Luke",
+      "Malcolm", "Marcus", "Mark", "Martin", "Matthew", "Max", "Michael", "Miles", "Morgan",
+      "Nathan", "Neil", "Nicholas", "Noah", "Norman",
+      "Oliver", "Oscar", "Owen",
+      "Patrick", "Paul", "Peter", "Philip", "Quentin",
+      "Ralph", "Raymond", "Reginald", "Richard", "Robert", "Robin", "Roger", "Roland", "Ross", "Russell",
+      "Samuel", "Sean", "Sebastian", "Seth", "Simon", "Stephen", "Steven",
+      "Theodore", "Thomas", "Timothy", "Tobias", "Trevor", "Tyler",
+      "Victor", "Vincent",
+      "Walter", "Warren", "Wesley", "William", "Wyatt",
+      "Xavier",
+      "Zachary"
+    ],
+    "female": [
+      "Abigail", "Ada", "Adele", "Adrienne", "Agatha", "Agnes", "Alexandra", "Alice", "Alison", "Amanda", "Amelia", "Amy", "Andrea", "Angela", "Anita", "Anna", "Anne", "Annette", "Audrey", "Ava",
+      "Barbara", "Beatrice", "Belinda", "Bernadette", "Beth", "Beverly", "Bianca", "Bridget", "Brooke",
+      "Camilla", "Carina", "Carol", "Caroline", "Catherine", "Cecilia", "Charlotte", "Chloe", "Christina", "Claire", "Clara", "Clarissa", "Claudia", "Colette", "Constance",
+      "Danielle", "Daphne", "Deborah", "Diana", "Donna", "Dorothy",
+      "Edith", "Elaine", "Eleanor", "Elizabeth", "Ella", "Ellen", "Eloise", "Elsa", "Elsie", "Emily", "Emma", "Erica", "Esther", "Eva", "Evelyn",
+      "Faith", "Felicity", "Fiona", "Florence", "Frances", "Francesca", "Freya",
+      "Gabrielle", "Gemma", "Georgia", "Geraldine", "Gillian", "Gladys", "Gloria", "Grace",
+      "Hannah", "Harriet", "Hazel", "Heather", "Helen", "Helena", "Holly", "Hope",
+      "Imogen", "Irene", "Iris", "Isabel", "Isabella", "Isla", "Ivy",
+      "Jacqueline", "Jane", "Janet", "Janice", "Jean", "Jennifer", "Jessica", "Jillian", "Joan", "Joanna", "Josephine", "Joyce", "Judith", "Julia", "Julie", "June",
+      "Karen", "Katherine", "Kathleen", "Kathryn", "Katie", "Kay",
+      "Laura", "Lauren", "Leah", "Lily", "Linda", "Lisa", "Lucy", "Lydia",
+      "Mabel", "Madeline", "Margaret", "Maria", "Marianne", "Martha", "Mary", "Matilda", "Megan", "Melanie", "Melissa", "Meredith", "Michelle", "Millicent", "Molly", "Monica",
+      "Naomi", "Natalie", "Nicola", "Nicole", "Nora",
+      "Olivia", "Ophelia",
+      "Pamela", "Patricia", "Paula", "Pauline", "Penelope", "Philippa", "Phoebe", "Phyllis", "Polly", "Priscilla",
+      "Rachel", "Rebecca", "Regina", "Rhonda", "Rita", "Roberta", "Rose", "Rosemary", "Ruby", "Ruth",
+      "Sabrina", "Sally", "Samantha", "Sandra", "Sara", "Sarah", "Selina", "Sharon", "Sheila", "Shirley", "Sophia", "Sophie", "Stephanie", "Susan", "Sylvia",
+      "Tabitha", "Tamara", "Tara", "Teresa", "Tessa", "Theresa", "Tiffany", "Tracy",
+      "Uma", "Ursula",
+      "Valerie", "Vanessa", "Vera", "Victoria", "Violet", "Virginia",
+      "Wanda", "Wendy", "Willow",
+      "Yvonne",
+      "Zoe"
+    ],
+    "nonbinary": [
+      "Alex", "Ash", "Avery", "Bailey", "Blair", "Brooklyn", "Cameron", "Casey", "Charlie", "Dakota", 
+      "Devin", "Drew", "Elliot", "Emerson", "Finley", "Francis", "Harley", "Harper", "Hayden", "Jamie", 
+      "Jordan", "Kai", "Kennedy", "Lane", "Logan", "London", "Madison", "Morgan", "Parker", "Quinn", 
+      "Reese", "Riley", "River", "Robin", "Rowan", "Sage", "Sam", "Sawyer", "Sidney", "Sky", 
+      "Taylor", "Tegan", "Tyler"
+    ],
+    "surnames": [
+      "Adams", "Allen", "Anderson", "Armstrong", "Atkins",
+      "Bailey", "Baker", "Barrett", "Bell", "Bennett", "Black", "Bradley", "Brooks", "Brown", "Butler",
+      "Campbell", "Carter", "Chapman", "Clark", "Cole", "Collins", "Cook", "Cooper", "Cox", "Crawford",
+      "Davies", "Davis", "Dawson", "Day", "Dixon", "Douglas",
+      "Edwards", "Elliott", "Ellis", "Evans",
+      "Fisher", "Fletcher", "Ford", "Foster", "Fox", "Freeman",
+      "Gardner", "Gibson", "Gilbert", "Gordon", "Graham", "Grant", "Gray", "Green", "Griffin",
+      "Hall", "Hamilton", "Harris", "Harrison", "Hart", "Hawkins", "Hayes", "Henderson", "Hill", "Holmes", "Howard", "Hughes", "Hunt", "Hunter",
+      "Jackson", "James", "Jenkins", "Johnson", "Jones",
+      "Kelly", "Kennedy", "King", "Knight",
+      "Lawrence", "Lee", "Lewis", "Lloyd", "Long",
+      "Marshall", "Martin", "Mason", "Matthews", "Miller", "Mills", "Mitchell", "Moore", "Morgan", "Morris", "Murphy", "Murray",
+      "Nelson", "Newman", "Newton", "Nichols",
+      "Owen",
+      "Palmer", "Parker", "Parry", "Patterson", "Pearson", "Perry", "Phillips", "Porter", "Powell", "Price",
+      "Reed", "Reid", "Reynolds", "Richards", "Richardson", "Roberts", "Robertson", "Robinson", "Rogers", "Rose", "Ross", "Russell",
+      "Sanders", "Scott", "Shaw", "Simpson", "Smith", "Stevens", "Stewart", "Stone", "Sullivan",
+      "Taylor", "Thomas", "Thompson", "Tucker", "Turner",
+      "Walker", "Wallace", "Walsh", "Ward", "Watson", "Webb", "Wells", "West", "White", "Wilkins", "Williams", "Wilson", "Wood", "Woods", "Wright",
+      "Young"
+    ]
+  },
+  "elf": {
+    "male": [
+      "Adran", "Aelar", "Aramil", "Arannis", "Aust", "Beiro", "Berrian", "Carric", "Enialis", "Erdan", 
+      "Erevan", "Galinndan", "Hadarai", "Heian", "Himo", "Immeral", "Ivellios", "Laucian", "Mindartis", 
+      "Paelias", "Peren", "Quarion", "Riardon", "Rolen", "Soveliss", "Thamior", "Tharivol", "Theren", 
+      "Varis"
+    ],
+    "female": [
+      "Adrie", "Althaea", "Anastrianna", "Andraste", "Antinua", "Bethrynna", "Birel", "Caelynn", "Drusilia", 
+      "Enna", "Felosial", "Ielenia", "Jelenneth", "Keyleth", "Leshanna", "Lia", "Meriele", "Mialee", 
+      "Naivara", "Quelenna", "Quillathe", "Sariel", "Shanairra", "Shava", "Silaqui", "Theirastra", 
+      "Thia", "Vadania", "Valanthe", "Xanaphia"
+    ],
+    "surnames": [
+      "Amakiir", "Amastacia", "Galanodel", "Holimion", "Ilphelkiir", "Liadon", "Meliamne", 
+      "Naïlo", "Siannodel", "Xiloscient"
+    ]
+  },
+  "dwarf": {
+    "male": [
+      "Adrik", "Alberich", "Baern", "Barendd", "Brottor", "Bruenor", "Dain", "Darrak", "Delg", "Eberk", 
+      "Einkil", "Fargrim", "Flint", "Gardain", "Harbek", "Kildrak", "Morgran", "Orsik", "Oskar", 
+      "Rangrim", "Rurik", "Taklinn", "Thoradin", "Thorin", "Tordek", "Traubon", "Travok", "Ulfgar", 
+      "Veit", "Vondal"
+    ],
+    "female": [
+      "Amber", "Artin", "Audhild", "Bardryn", "Dagnal", "Diesa", "Eldeth", "Falkrunn", "Finellen", 
+      "Gunnloda", "Gurdis", "Helja", "Hlin", "Kathra", "Kristryd", "Ilde", "Liftrasa", "Mardred", 
+      "Riswynn", "Sannl", "Torbera", "Torgga", "Vistra"
+    ],
+    "surnames": [
+      "Balderk", "Battlehammer", "Brawnanvil", "Dankil", "Fireforge", "Frostbeard", "Gorunn", 
+      "Holderhek", "Ironfist", "Loderr", "Lutgehr", "Rumnaheim", "Strakeln", "Torunn", "Ungart"
+    ]
+  },
+  "halfling": {
+    "male": [
+      "Alton", "Ander", "Cade", "Corrin", "Eldon", "Errich", "Finnan", "Garret", "Lindal", "Lyle", 
+      "Merric", "Milo", "Osborn", "Perrin", "Reed", "Roscoe", "Wellby"
+    ],
+    "female": [
+      "Andry", "Bree", "Callie", "Cora", "Euphemia", "Jillian", "Kithri", "Lavinia", "Lidda", "Merla", 
+      "Nedda", "Paela", "Portia", "Seraphina", "Shaena", "Trym", "Vani", "Verna"
+    ],
+    "surnames": [
+      "Brushgather", "Goodbarrel", "Greenbottle", "High-hill", "Hilltopple", "Leagallow", "Tealeaf", 
+      "Thorngage", "Tosscobble", "Underbough"
+    ]
+  },
+  "half-elf": {
+    "male": [
+      "Adran", "Aelar", "Beiro", "Carric", "Eldon", "Erdan", "Erevan", "Garrett", "Laucian", "Mindartis", 
+      "Paelias", "Peren", "Quarion", "Riardon", "Soveliss", "Theren", "Varis"
+    ],
+    "female": [
+      "Adrie", "Birel", "Chaedi", "Dara", "Enna", "Faral", "Irann", "Keyleth", "Lia", "Mialee", 
+      "Shava", "Thia", "Valna"
+    ],
+    "surnames": [
+      "Amakiir", "Amastacia", "Galanodel", "Holimion", "Liadon", "Meliamne", "Naïlo", "Siannodel", 
+      "Ilphelkiir", "Xiloscient", "Brightwood", "Helder", "Hornraven", "Lackman", "Stormwind", "Windriver"
+    ]
+  },
+  "half-orc": {
+    "male": [
+      "Dench", "Feng", "Gell", "Henk", "Holg", "Imsh", "Keth", "Krusk", "Mhurren", "Ront", "Shump", 
+      "Thokk"
+    ],
+    "female": [
+      "Baggi", "Emen", "Engong", "Kansif", "Myev", "Neega", "Ovak", "Ownka", "Shautha", "Sutha", 
+      "Vola", "Volen", "Yevelda"
+    ],
+    "surnames": [
+      "Brokentusk", "Clawfist", "Hurttooth", "Irontooth", "Lonehunter", "Redfang", "Skullcrusher", 
+      "Stonetooth", "Trollripper", "Bloodhowl", "Bonebreaker", "Skullsplitter", "Strongarm", "Thunderfist"
+    ]
+  },
+  "gnome": {
+    "male": [
+      "Alston", "Alvyn", "Boddynock", "Brocc", "Burgell", "Dimble", "Eldon", "Erky", "Fonkin", "Frug", 
+      "Gerbo", "Gimble", "Glim", "Jebeddo", "Kellen", "Namfoodle", "Orryn", "Roondar", "Seebo", "Sindri", 
+      "Warryn", "Wrenn", "Zook"
+    ],
+    "female": [
+      "Bimpnottin", "Breena", "Caramip", "Carlin", "Donella", "Duvamil", "Ella", "Ellyjobell", "Ellywick", 
+      "Lilli", "Loopmottin", "Lorilla", "Mardnab", "Nissa", "Nyx", "Oda", "Orla", "Roywyn", "Shamil", 
+      "Tana", "Waywocket", "Zanna"
+    ],
+    "surnames": [
+      "Beren", "Daergel", "Folkor", "Garrick", "Nackle", "Murnig", "Ningel", "Raulnor", "Scheppen", 
+      "Timbers", "Turen"
+    ]
+  },
+  "tiefling": {
+    "male": [
+      "Akmenos", "Amnon", "Barakas", "Damakos", "Ekemon", "Iados", "Kairon", "Leucis", "Melech", 
+      "Mordai", "Morthos", "Pelaios", "Skamos", "Therai"
+    ],
+    "female": [
+      "Akta", "Anakis", "Bryseis", "Criella", "Damaia", "Ea", "Kallista", "Lerissa", "Makaria", "Nemeia", 
+      "Orianna", "Phelaia", "Rieta"
+    ],
+    "surnames": [
+      "Art", "Carrion", "Chant", "Creed", "Despair", "Excellence", "Fear", "Glory", "Hope", "Ideal", 
+      "Music", "Nowhere", "Open", "Poetry", "Quest", "Random", "Reverence", "Sorrow", "Temerity", 
+      "Torment", "Weary"
+    ]
+  },
+  "dragonborn": {
+    "male": [
+      "Arjhan", "Balasar", "Bharash", "Donaar", "Ghesh", "Heskan", "Kriv", "Medrash", "Mehen", "Nadarr", 
+      "Patrin", "Rhogar", "Shamash", "Shedinn", "Tarhun", "Torinn"
+    ],
+    "female": [
+      "Akra", "Biri", "Daar", "Farideh", "Harann", "Havilar", "Jheri", "Kava", "Korinn", "Mishann", 
+      "Nala", "Perra", "Raiann", "Sora", "Surina", "Thava", "Uadjit"
+    ],
+    "surnames": [
+      "Clethtinthiallor", "Daardendrian", "Delmirev", "Drachedandion", "Fenkenkabradon", "Kepeshkmolik", 
+      "Kerrhylon", "Kimbatuul", "Linxakasendalor", "Myastan", "Nemmonis", "Norixius", "Ophinshtalajiir", 
+      "Prexijandilin", "Shestendeliath", "Turnuroth", "Verthisathurgiesh", "Yarjerit"
+    ]
+  }
+}

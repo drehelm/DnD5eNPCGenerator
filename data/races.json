@@ -1,0 +1,83 @@
+[
+  {
+    "id": "human",
+    "name": "Human",
+    "ageRanges": {
+      "min": 18,
+      "max": 90
+    },
+    "description": "Humans are the most adaptable and ambitious people among the common races. They have widely varying tastes, morals, and customs in the many different lands where they have settled."
+  },
+  {
+    "id": "elf",
+    "name": "Elf",
+    "ageRanges": {
+      "min": 25,
+      "max": 750
+    },
+    "description": "Elves are a magical people of otherworldly grace, living in the world but not entirely part of it."
+  },
+  {
+    "id": "dwarf",
+    "name": "Dwarf",
+    "ageRanges": {
+      "min": 20,
+      "max": 350
+    },
+    "description": "Bold and hardy, dwarves are known as skilled warriors, miners, and workers of stone and metal."
+  },
+  {
+    "id": "halfling",
+    "name": "Halfling",
+    "ageRanges": {
+      "min": 20,
+      "max": 150
+    },
+    "description": "The diminutive halflings survive in a world full of larger creatures by avoiding notice or, barring that, avoiding offense."
+  },
+  {
+    "id": "half-elf",
+    "name": "Half-Elf",
+    "ageRanges": {
+      "min": 20,
+      "max": 180
+    },
+    "description": "Half-elves combine what some say are the best qualities of their elf and human parents."
+  },
+  {
+    "id": "half-orc",
+    "name": "Half-Orc",
+    "ageRanges": {
+      "min": 14,
+      "max": 75
+    },
+    "description": "Half-orcs' grayish pigmentation, sloping foreheads, jutting jaws, prominent teeth, and towering builds make their orcish heritage plain for all to see."
+  },
+  {
+    "id": "gnome",
+    "name": "Gnome",
+    "ageRanges": {
+      "min": 18,
+      "max": 500
+    },
+    "description": "A gnome's energy and enthusiasm for living shines through every inch of his or her tiny body."
+  },
+  {
+    "id": "tiefling",
+    "name": "Tiefling",
+    "ageRanges": {
+      "min": 18,
+      "max": 100
+    },
+    "description": "Tieflings are descended from human bloodlines with infernal touches. Their appearance and their nature are not their fault but the result of an ancient sin."
+  },
+  {
+    "id": "dragonborn",
+    "name": "Dragonborn",
+    "ageRanges": {
+      "min": 15,
+      "max": 80
+    },
+    "description": "Dragonborn look very much like dragons standing erect in humanoid form, though they lack wings or a tail."
+  }
+]

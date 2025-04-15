@@ -1,0 +1,282 @@
+[
+  {
+    "id": "quirk_nervous_laugh",
+    "description": "Has a nervous laugh that appears at inappropriate moments.",
+    "raceTags": [],
+    "classTags": [],
+    "ageTags": []
+  },
+  {
+    "id": "quirk_collects_buttons",
+    "description": "Collects buttons of all shapes and sizes and can tell you the history of each one.",
+    "raceTags": ["gnome", "halfling"],
+    "classTags": [],
+    "ageTags": []
+  },
+  {
+    "id": "quirk_fortune_teller",
+    "description": "Claims to be able to tell fortunes, but they're almost always wrong.",
+    "raceTags": [],
+    "classTags": ["bard", "sorcerer", "wizard"],
+    "ageTags": []
+  },
+  {
+    "id": "quirk_talks_to_animals",
+    "description": "Constantly talks to animals as if they understand every word.",
+    "raceTags": [],
+    "classTags": ["druid", "ranger"],
+    "ageTags": []
+  },
+  {
+    "id": "quirk_quotes_ancestors",
+    "description": "Frequently quotes ancestors who may or may not have existed.",
+    "raceTags": ["dwarf", "dragonborn"],
+    "classTags": [],
+    "ageTags": ["middle-aged", "old", "venerable"]
+  },
+  {
+    "id": "quirk_carries_lucky_charm",
+    "description": "Carries a 'lucky charm' and panics if it's lost or forgotten.",
+    "raceTags": ["halfling"],
+    "classTags": [],
+    "ageTags": []
+  },
+  {
+    "id": "quirk_excessive_gestures",
+    "description": "Uses excessive hand gestures when speaking.",
+    "raceTags": [],
+    "classTags": ["bard", "wizard"],
+    "ageTags": []
+  },
+  {
+    "id": "quirk_dramatizes_stories",
+    "description": "Dramatizes every story, making mundane events sound like epic adventures.",
+    "raceTags": [],
+    "classTags": ["bard"],
+    "ageTags": []
+  },
+  {
+    "id": "quirk_food_hoarder",
+    "description": "Hoards food in pockets and bags, even when there's no shortage.",
+    "raceTags": ["halfling"],
+    "classTags": [],
+    "ageTags": []
+  },
+  {
+    "id": "quirk_never_smiles",
+    "description": "Never smiles, even when happy or amused.",
+    "raceTags": ["half-orc", "tiefling"],
+    "classTags": ["blood-hunter"],
+    "ageTags": []
+  },
+  {
+    "id": "quirk_smells_everything",
+    "description": "Smells everything before touching it.",
+    "raceTags": [],
+    "classTags": ["druid", "ranger"],
+    "ageTags": []
+  },
+  {
+    "id": "quirk_weather_predictor",
+    "description": "Claims to predict the weather by feeling it in their bones, with mixed accuracy.",
+    "raceTags": ["dwarf"],
+    "classTags": ["druid"],
+    "ageTags": ["old", "venerable"]
+  },
+  {
+    "id": "quirk_adjusts_things",
+    "description": "Constantly adjusts and straightens things around them.",
+    "raceTags": ["gnome"],
+    "classTags": ["artificer"],
+    "ageTags": []
+  },
+  {
+    "id": "quirk_speaks_third_person",
+    "description": "Speaks about themselves in the third person.",
+    "raceTags": ["dragonborn", "tiefling"],
+    "classTags": [],
+    "ageTags": []
+  },
+  {
+    "id": "quirk_hums_tunes",
+    "description": "Hums or whistles tunes without realizing it.",
+    "raceTags": [],
+    "classTags": ["bard"],
+    "ageTags": []
+  },
+  {
+    "id": "quirk_invents_words",
+    "description": "Regularly invents words and uses them as if everyone should understand.",
+    "raceTags": ["gnome"],
+    "classTags": ["wizard", "artificer"],
+    "ageTags": []
+  },
+  {
+    "id": "quirk_suspicious_of_magic",
+    "description": "Deeply suspicious of magic despite living in a magical world.",
+    "raceTags": ["human", "dwarf"],
+    "classTags": ["fighter", "barbarian"],
+    "ageTags": []
+  },
+  {
+    "id": "quirk_carries_rock",
+    "description": "Carries a small rock named 'Herbert' that they consult for important decisions.",
+    "raceTags": [],
+    "classTags": [],
+    "ageTags": []
+  },
+  {
+    "id": "quirk_overly_formal",
+    "description": "Uses overly formal and archaic language in everyday conversation.",
+    "raceTags": ["elf", "dragonborn"],
+    "classTags": ["wizard", "paladin"],
+    "ageTags": ["old", "venerable"]
+  },
+  {
+    "id": "quirk_fear_of_birds",
+    "description": "Has an irrational fear of birds.",
+    "raceTags": [],
+    "classTags": [],
+    "ageTags": []
+  },
+  {
+    "id": "quirk_sleeps_with_eyes_open",
+    "description": "Sleeps with their eyes open, unnerving companions.",
+    "raceTags": ["elf"],
+    "classTags": [],
+    "ageTags": []
+  },
+  {
+    "id": "quirk_counts_steps",
+    "description": "Counts steps under their breath when walking.",
+    "raceTags": [],
+    "classTags": ["monk"],
+    "ageTags": []
+  },
+  {
+    "id": "quirk_obsessed_with_time",
+    "description": "Obsessed with timekeeping and scheduling.",
+    "raceTags": ["gnome"],
+    "classTags": ["artificer"],
+    "ageTags": []
+  },
+  {
+    "id": "quirk_constantly_grooming",
+    "description": "Constantly grooming or adjusting their appearance.",
+    "raceTags": ["elf", "tiefling"],
+    "classTags": [],
+    "ageTags": []
+  },
+  {
+    "id": "quirk_speaks_to_weapons",
+    "description": "Speaks to their weapons or tools as if they're old friends.",
+    "raceTags": [],
+    "classTags": ["fighter", "barbarian", "artificer"],
+    "ageTags": []
+  },
+  {
+    "id": "quirk_collects_teeth",
+    "description": "Collects teeth from various creatures (including humanoids).",
+    "raceTags": ["half-orc"],
+    "classTags": ["barbarian", "blood-hunter"],
+    "ageTags": []
+  },
+  {
+    "id": "quirk_paranoid_about_theft",
+    "description": "Paranoid about theft, constantly checking their possessions.",
+    "raceTags": ["dwarf"],
+    "classTags": ["rogue"],
+    "ageTags": []
+  },
+  {
+    "id": "quirk_excessive_bowing",
+    "description": "Bows deeply and formally to everyone they meet, regardless of status.",
+    "raceTags": [],
+    "classTags": ["monk"],
+    "ageTags": []
+  },
+  {
+    "id": "quirk_speaks_to_plants",
+    "description": "Speaks to plants and apologizes when picking flowers or vegetables.",
+    "raceTags": [],
+    "classTags": ["druid"],
+    "ageTags": []
+  },
+  {
+    "id": "quirk_always_bargaining",
+    "description": "Tries to haggle and bargain for everything, even when inappropriate.",
+    "raceTags": [],
+    "classTags": ["rogue"],
+    "ageTags": []
+  },
+  {
+    "id": "quirk_superstitious",
+    "description": "Extremely superstitious, performing little rituals to ward off bad luck.",
+    "raceTags": [],
+    "classTags": [],
+    "ageTags": []
+  },
+  {
+    "id": "quirk_exaggerates_height",
+    "description": "Constantly exaggerates their height and gets offended if corrected.",
+    "raceTags": ["halfling", "gnome", "dwarf"],
+    "classTags": [],
+    "ageTags": []
+  },
+  {
+    "id": "quirk_refers_to_self_as_we",
+    "description": "Refers to themselves as 'we' instead of 'I'.",
+    "raceTags": [],
+    "classTags": ["warlock"],
+    "ageTags": []
+  },
+  {
+    "id": "quirk_tastes_new_things",
+    "description": "Tastes new or interesting things they find, regardless of what they are.",
+    "raceTags": ["halfling"],
+    "classTags": [],
+    "ageTags": ["young", "adult"]
+  },
+  {
+    "id": "quirk_writes_everything_down",
+    "description": "Writes down everything in a small notebook, including mundane conversations.",
+    "raceTags": ["human"],
+    "classTags": ["wizard"],
+    "ageTags": []
+  },
+  {
+    "id": "quirk_stares_at_flames",
+    "description": "Stares intensely at flames whenever they're present.",
+    "raceTags": ["tiefling"],
+    "classTags": ["sorcerer"],
+    "ageTags": []
+  },
+  {
+    "id": "quirk_names_inanimate_objects",
+    "description": "Names inanimate objects and treats them like pets.",
+    "raceTags": [],
+    "classTags": [],
+    "ageTags": []
+  },
+  {
+    "id": "quirk_never_sits",
+    "description": "Never sits down if they can help it, preferring to stand or pace.",
+    "raceTags": [],
+    "classTags": ["ranger", "fighter"],
+    "ageTags": []
+  },
+  {
+    "id": "quirk_draws_on_everything",
+    "description": "Compulsively draws on any available surface when idle.",
+    "raceTags": [],
+    "classTags": ["bard"],
+    "ageTags": []
+  },
+  {
+    "id": "quirk_talks_to_reflections",
+    "description": "Talks to their own reflection as if it's a different person.",
+    "raceTags": [],
+    "classTags": ["warlock", "sorcerer"],
+    "ageTags": []
+  }
+]

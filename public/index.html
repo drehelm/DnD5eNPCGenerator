@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>D&D 5e NPC Generator</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=MedievalSharp&family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>D&D 5e NPC Generator</h1>
+            <p>Create detailed, randomized NPCs for your campaign</p>
+        </header>
+
+        <main>
+            <div class="generator-panel">
+                <form id="npc-form">
+                    <div class="form-section">
+                        <h2>Basic Information</h2>
+                        <div class="form-group">
+                            <label for="race">Race:</label>
+                            <select id="race" name="race">
+                                <option value="">Random</option>
+                                <!-- Races will be populated by JavaScript -->
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="class">Class:</label>
+                            <select id="class" name="class">
+                                <option value="">Random</option>
+                                <!-- Classes will be populated by JavaScript -->
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="gender">Gender:</label>
+                            <select id="gender" name="gender">
+                                <option value="">Random</option>
+                                <option value="male">Male</option>
+                                <option value="female">Female</option>
+                                <option value="nonbinary">Non-binary</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="age">Age:</label>
+                            <input type="number" id="age" name="age" min="1" max="1000" placeholder="Random">
+                        </div>
+                    </div>
+
+                    <div class="form-section">
+                        <h2>Personality</h2>
+                        <div class="form-group">
+                            <label for="trait-count">Number of Traits:</label>
+                            <input type="number" id="trait-count" name="traitCount" min="1" max="5" value="3">
+                        </div>
+                        <div class="form-group">
+                            <label for="quirk-count">Number of Quirks:</label>
+                            <input type="number" id="quirk-count" name="quirkCount" min="1" max="5" value="2">
+                        </div>
+                        <div class="form-group">
+                            <label for="flaw-count">Number of Flaws:</label>
+                            <input type="number" id="flaw-count" name="flawCount" min="1" max="3" value="1">
+                        </div>
+                    </div>
+
+                    <div class="form-section">
+                        <h2>Family</h2>
+                        <div class="form-group">
+                            <label for="generate-family">Generate Family Tree:</label>
+                            <input type="checkbox" id="generate-family" name="generateFamily" checked>
+                        </div>
+                        <div class="form-group family-depth">
+                            <label for="family-depth">Family Depth:</label>
+                            <select id="family-depth" name="familyDepth">
+                                <option value="1">Immediate Family</option>
+                                <option value="2">Extended Family</option>
+                                <option value="3">Distant Relatives</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <button type="submit" id="generate-button">Generate NPC</button>
+                </form>
+            </div>
+
+            <div class="results-panel" id="results-panel">
+                <div class="results-header">
+                    <h2>Generated NPC</h2>
+                    <div class="actions">
+                        <button id="regenerate-button" disabled>Regenerate</button>
+                        <button id="copy-button" disabled>Copy</button>
+                    </div>
+                </div>
+
+                <div id="npc-display" class="npc-display">
+                    <p class="empty-state">Generate an NPC to see results</p>
+                </div>
+
+                <div id="family-tree-container" class="family-tree-container">
+                    <!-- Family tree will be rendered here -->
+                </div>
+            </div>
+        </main>
+
+        <div class="regenerate-modal" id="regenerate-modal">
+            <div class="modal-content">
+                <h2>Regenerate Attributes</h2>
+                <p>Select attributes to regenerate:</p>
+                <div class="regenerate-options">
+                    <label><input type="checkbox" name="regenerate" value="name"> Name</label>
+                    <label><input type="checkbox" name="regenerate" value="race"> Race</label>
+                    <label><input type="checkbox" name="regenerate" value="class"> Class</label>
+                    <label><input type="checkbox" name="regenerate" value="age"> Age</label>
+                    <label><input type="checkbox" name="regenerate" value="gender"> Gender</label>
+                    <label><input type="checkbox" name="regenerate" value="quirks"> Quirks</label>
+                    <label><input type="checkbox" name="regenerate" value="traits"> Traits</label>
+                    <label><input type="checkbox" name="regenerate" value="flaws"> Flaws</label>
+                    <label><input type="checkbox" name="regenerate" value="familyTree"> Family Tree</label>
+                </div>
+                <div class="modal-actions">
+                    <button id="confirm-regenerate">Regenerate Selected</button>
+                    <button id="cancel-regenerate">Cancel</button>
+                </div>
+            </div>
+        </div>
+
+        <footer>
+            <p>D&D 5e NPC Generator - Created for your campaign needs</p>
+        </footer>
+    </div>
+
+    <script src="js/main.js" type="module"></script>
+</body>
+</html>

@@ -1,0 +1,261 @@
+[
+  {
+    "id": "flaw_arrogance",
+    "description": "Arrogant and believes they're superior to most others.",
+    "raceTags": ["elf", "tiefling", "dragonborn"],
+    "classTags": ["sorcerer", "wizard", "paladin"],
+    "ageTags": ["adult", "middle-aged"]
+  },
+  {
+    "id": "flaw_alcoholic",
+    "description": "Drinks too much alcohol and is often found in taverns.",
+    "raceTags": ["dwarf", "human"],
+    "classTags": ["barbarian", "fighter"],
+    "ageTags": ["adult", "middle-aged", "old"]
+  },
+  {
+    "id": "flaw_gossiper",
+    "description": "Cannot keep a secret to save their life.",
+    "raceTags": ["halfling", "gnome"],
+    "classTags": ["bard"],
+    "ageTags": ["young", "adult", "middle-aged"]
+  },
+  {
+    "id": "flaw_vengeful",
+    "description": "Never forgets a slight and will go to extreme lengths for revenge.",
+    "raceTags": ["tiefling", "half-orc", "dwarf"],
+    "classTags": ["warlock", "rogue", "blood-hunter"],
+    "ageTags": ["adult", "middle-aged", "old"]
+  },
+  {
+    "id": "flaw_greedy",
+    "description": "Overtaken by greed at the sight of gold and treasure.",
+    "raceTags": ["dwarf", "halfling"],
+    "classTags": ["rogue"],
+    "ageTags": ["adult", "middle-aged"]
+  },
+  {
+    "id": "flaw_pathological_liar",
+    "description": "Compulsively lies, even when there's no reason to.",
+    "raceTags": [],
+    "classTags": ["rogue", "bard"],
+    "ageTags": ["young", "adult"]
+  },
+  {
+    "id": "flaw_cowardly",
+    "description": "Runs from danger at the first opportunity.",
+    "raceTags": [],
+    "classTags": [],
+    "ageTags": []
+  },
+  {
+    "id": "flaw_prejudiced",
+    "description": "Prejudiced against certain races or groups.",
+    "raceTags": [],
+    "classTags": [],
+    "ageTags": ["middle-aged", "old", "venerable"]
+  },
+  {
+    "id": "flaw_kleptomaniac",
+    "description": "Cannot resist stealing small, shiny objects.",
+    "raceTags": ["halfling"],
+    "classTags": ["rogue"],
+    "ageTags": ["young", "adult"]
+  },
+  {
+    "id": "flaw_narcissistic",
+    "description": "Narcissistic and obsessed with their own appearance.",
+    "raceTags": ["elf", "tiefling"],
+    "classTags": ["bard", "sorcerer"],
+    "ageTags": ["young", "adult"]
+  },
+  {
+    "id": "flaw_insecure",
+    "description": "Deeply insecure and needs constant reassurance.",
+    "raceTags": ["half-orc", "half-elf", "tiefling"],
+    "classTags": [],
+    "ageTags": ["young", "adult"]
+  },
+  {
+    "id": "flaw_jealous",
+    "description": "Jealous of others' success and possessions.",
+    "raceTags": [],
+    "classTags": [],
+    "ageTags": ["adult", "middle-aged"]
+  },
+  {
+    "id": "flaw_short_tempered",
+    "description": "Loses their temper at the slightest provocation.",
+    "raceTags": ["half-orc", "dragonborn"],
+    "classTags": ["barbarian", "fighter"],
+    "ageTags": ["young", "adult"]
+  },
+  {
+    "id": "flaw_overconfident",
+    "description": "Overconfident in their abilities, often biting off more than they can chew.",
+    "raceTags": ["human", "half-orc"],
+    "classTags": ["barbarian", "fighter", "paladin"],
+    "ageTags": ["young", "adult"]
+  },
+  {
+    "id": "flaw_paranoid",
+    "description": "Paranoid that everyone is out to get them.",
+    "raceTags": ["tiefling"],
+    "classTags": ["warlock", "rogue"],
+    "ageTags": ["adult", "middle-aged", "old"]
+  },
+  {
+    "id": "flaw_spendthrift",
+    "description": "Cannot manage money and spends it as soon as they get it.",
+    "raceTags": ["human", "halfling"],
+    "classTags": ["bard"],
+    "ageTags": ["young", "adult"]
+  },
+  {
+    "id": "flaw_stubborn",
+    "description": "So stubborn they'll maintain a wrong position rather than admit a mistake.",
+    "raceTags": ["dwarf"],
+    "classTags": [],
+    "ageTags": ["adult", "middle-aged", "old", "venerable"]
+  },
+  {
+    "id": "flaw_overly_trusting",
+    "description": "Too trusting and easily deceived by others.",
+    "raceTags": ["halfling"],
+    "classTags": ["cleric"],
+    "ageTags": ["young", "adult"]
+  },
+  {
+    "id": "flaw_gambler",
+    "description": "Addicted to gambling and will bet on anything.",
+    "raceTags": ["human", "halfling"],
+    "classTags": ["rogue", "bard"],
+    "ageTags": ["adult", "middle-aged"]
+  },
+  {
+    "id": "flaw_haunted_past",
+    "description": "Haunted by something from their past and often wakes up screaming.",
+    "raceTags": [],
+    "classTags": ["warlock", "blood-hunter", "rogue"],
+    "ageTags": ["adult", "middle-aged", "old"]
+  },
+  {
+    "id": "flaw_reckless",
+    "description": "Recklessly charges into situations without thinking.",
+    "raceTags": ["half-orc", "dragonborn"],
+    "classTags": ["barbarian", "fighter"],
+    "ageTags": ["young", "adult"]
+  },
+  {
+    "id": "flaw_perfectionist",
+    "description": "Perfectionist to a fault, unable to accept 'good enough'.",
+    "raceTags": ["elf"],
+    "classTags": ["wizard", "artificer"],
+    "ageTags": ["adult", "middle-aged", "old"]
+  },
+  {
+    "id": "flaw_indecisive",
+    "description": "Incapable of making decisions without overthinking every possibility.",
+    "raceTags": [],
+    "classTags": ["wizard"],
+    "ageTags": ["adult", "middle-aged"]
+  },
+  {
+    "id": "flaw_blasphemous",
+    "description": "Openly blasphemous and disrespectful of the gods.",
+    "raceTags": ["tiefling"],
+    "classTags": ["warlock", "sorcerer"],
+    "ageTags": ["young", "adult"]
+  },
+  {
+    "id": "flaw_easily_manipulated",
+    "description": "Easily manipulated by those they consider attractive.",
+    "raceTags": [],
+    "classTags": [],
+    "ageTags": ["young", "adult"]
+  },
+  {
+    "id": "flaw_selfish",
+    "description": "Selfish and unwilling to sacrifice for others.",
+    "raceTags": [],
+    "classTags": ["rogue", "warlock"],
+    "ageTags": ["adult", "middle-aged"]
+  },
+  {
+    "id": "flaw_sadistic",
+    "description": "Takes pleasure in others' pain and suffering.",
+    "raceTags": ["tiefling"],
+    "classTags": ["warlock", "blood-hunter"],
+    "ageTags": ["adult", "middle-aged"]
+  },
+  {
+    "id": "flaw_glory_seeker",
+    "description": "Seeks glory at any cost, even risking companions' lives.",
+    "raceTags": ["dragonborn", "human"],
+    "classTags": ["fighter", "paladin", "barbarian"],
+    "ageTags": ["young", "adult"]
+  },
+  {
+    "id": "flaw_obsessive",
+    "description": "Obsessed with a particular subject or goal to the detriment of everything else.",
+    "raceTags": ["gnome"],
+    "classTags": ["wizard", "artificer"],
+    "ageTags": ["adult", "middle-aged", "old"]
+  },
+  {
+    "id": "flaw_overly_critical",
+    "description": "Overly critical of others while blind to their own flaws.",
+    "raceTags": ["elf"],
+    "classTags": [],
+    "ageTags": ["adult", "middle-aged", "old", "venerable"]
+  },
+  {
+    "id": "flaw_vain",
+    "description": "Vain and constantly concerned with their appearance.",
+    "raceTags": ["elf", "tiefling"],
+    "classTags": ["bard"],
+    "ageTags": ["young", "adult"]
+  },
+  {
+    "id": "flaw_crude",
+    "description": "Crude and offensive with no respect for social norms.",
+    "raceTags": ["half-orc"],
+    "classTags": ["barbarian"],
+    "ageTags": ["young", "adult"]
+  },
+  {
+    "id": "flaw_pessimistic",
+    "description": "Pessimistic and always expects the worst outcome.",
+    "raceTags": [],
+    "classTags": ["warlock"],
+    "ageTags": ["middle-aged", "old", "venerable"]
+  },
+  {
+    "id": "flaw_impulsive",
+    "description": "Impulsive and acts before thinking.",
+    "raceTags": ["gnome", "halfling"],
+    "classTags": ["barbarian", "sorcerer"],
+    "ageTags": ["young", "adult"]
+  },
+  {
+    "id": "flaw_gullible",
+    "description": "Gullible and believes even the most outlandish tales.",
+    "raceTags": [],
+    "classTags": [],
+    "ageTags": ["young", "child"]
+  },
+  {
+    "id": "flaw_power_hungry",
+    "description": "Power-hungry and willing to do anything to gain more power.",
+    "raceTags": [],
+    "classTags": ["wizard", "warlock", "sorcerer"],
+    "ageTags": ["adult", "middle-aged"]
+  },
+  {
+    "id": "flaw_fanatical",
+    "description": "Fanatically devoted to a cause, deity, or leader.",
+    "raceTags": [],
+    "classTags": ["cleric", "paladin"],
+    "ageTags": ["adult", "middle-aged", "old"]
+  }
+]

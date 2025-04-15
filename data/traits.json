@@ -1,0 +1,300 @@
+[
+  {
+    "id": "trait_curious",
+    "description": "Curious and inquisitive, always asking questions about the world.",
+    "raceTags": [],
+    "classTags": ["wizard", "bard", "artificer"],
+    "ageTags": ["young", "adult", "middle-aged"]
+  },
+  {
+    "id": "trait_brave",
+    "description": "Brave to the point of recklessness, never backing down from a challenge.",
+    "raceTags": [],
+    "classTags": ["barbarian", "fighter", "paladin"],
+    "ageTags": ["young", "adult"]
+  },
+  {
+    "id": "trait_cautious",
+    "description": "Cautious and careful, always looking before leaping.",
+    "raceTags": ["halfling"],
+    "classTags": ["rogue", "wizard"],
+    "ageTags": ["middle-aged", "old", "venerable"]
+  },
+  {
+    "id": "trait_honorable",
+    "description": "Honorable to a fault, keeping their word even when it's inconvenient.",
+    "raceTags": ["dragonborn"],
+    "classTags": ["paladin", "fighter"],
+    "ageTags": ["adult", "middle-aged", "old"]
+  },
+  {
+    "id": "trait_greedy",
+    "description": "Greedy for wealth and riches, always looking for the next big score.",
+    "raceTags": ["dwarf"],
+    "classTags": ["rogue"],
+    "ageTags": ["adult", "middle-aged"],
+    "conflictsWith": ["trait_generous"]
+  },
+  {
+    "id": "trait_suspicious",
+    "description": "Suspicious of strangers and their motives.",
+    "raceTags": [],
+    "classTags": [],
+    "ageTags": ["adult", "middle-aged", "old"],
+    "conflictsWith": ["trait_trusting"]
+  },
+  {
+    "id": "trait_trusting",
+    "description": "Trusting and sees the good in everyone.",
+    "raceTags": [],
+    "classTags": ["cleric", "paladin"],
+    "ageTags": ["young", "adult"],
+    "conflictsWith": ["trait_suspicious"]
+  },
+  {
+    "id": "trait_scholarly",
+    "description": "Scholarly and well-read, often quoting ancient texts.",
+    "raceTags": ["human", "elf"],
+    "classTags": ["wizard", "cleric", "bard"],
+    "ageTags": ["adult", "middle-aged", "old", "venerable"]
+  },
+  {
+    "id": "trait_stubborn",
+    "description": "Stubborn and set in their ways, rarely changing their mind once it's made up.",
+    "raceTags": ["dwarf"],
+    "classTags": [],
+    "ageTags": ["middle-aged", "old", "venerable"]
+  },
+  {
+    "id": "trait_mischievous",
+    "description": "Mischievous and enjoys playing pranks on others.",
+    "raceTags": ["gnome", "halfling"],
+    "classTags": ["bard", "rogue"],
+    "ageTags": ["young", "adult"]
+  },
+  {
+    "id": "trait_serious",
+    "description": "Serious and no-nonsense, rarely showing a sense of humor.",
+    "raceTags": [],
+    "classTags": ["fighter", "paladin", "blood-hunter"],
+    "ageTags": ["adult", "middle-aged"],
+    "conflictsWith": ["trait_mischievous"]
+  },
+  {
+    "id": "trait_judgmental",
+    "description": "Judgmental of others, especially those who don't share their values.",
+    "raceTags": [],
+    "classTags": ["paladin", "cleric"],
+    "ageTags": ["adult", "middle-aged", "old"],
+    "conflictsWith": ["trait_accepting"]
+  },
+  {
+    "id": "trait_accepting",
+    "description": "Accepting of others' differences and beliefs.",
+    "raceTags": ["half-elf"],
+    "classTags": ["druid", "bard"],
+    "ageTags": ["adult", "middle-aged"],
+    "conflictsWith": ["trait_judgmental"]
+  },
+  {
+    "id": "trait_optimistic",
+    "description": "Optimistic and sees the bright side of any situation.",
+    "raceTags": ["halfling"],
+    "classTags": ["bard", "cleric"],
+    "ageTags": ["young", "adult"],
+    "conflictsWith": ["trait_pessimistic"]
+  },
+  {
+    "id": "trait_pessimistic",
+    "description": "Pessimistic and always expects the worst outcome.",
+    "raceTags": [],
+    "classTags": ["warlock", "blood-hunter"],
+    "ageTags": ["middle-aged", "old", "venerable"],
+    "conflictsWith": ["trait_optimistic"]
+  },
+  {
+    "id": "trait_generous",
+    "description": "Generous to a fault, often giving away more than they can afford.",
+    "raceTags": [],
+    "classTags": ["cleric", "paladin"],
+    "ageTags": ["adult", "middle-aged", "old"],
+    "conflictsWith": ["trait_greedy"]
+  },
+  {
+    "id": "trait_loyal",
+    "description": "Fiercely loyal to friends and allies, standing by them through thick and thin.",
+    "raceTags": ["half-orc", "dwarf"],
+    "classTags": ["fighter", "barbarian", "paladin"],
+    "ageTags": ["adult", "middle-aged", "old"]
+  },
+  {
+    "id": "trait_competitive",
+    "description": "Competitive and always trying to prove themselves.",
+    "raceTags": ["half-orc", "dragonborn"],
+    "classTags": ["fighter", "barbarian", "ranger"],
+    "ageTags": ["young", "adult"]
+  },
+  {
+    "id": "trait_artistic",
+    "description": "Artistic and creative, seeing beauty in the world around them.",
+    "raceTags": ["elf", "half-elf"],
+    "classTags": ["bard"],
+    "ageTags": ["young", "adult", "middle-aged", "old"]
+  },
+  {
+    "id": "trait_patient",
+    "description": "Patient and willing to wait for the right moment.",
+    "raceTags": ["elf"],
+    "classTags": ["monk", "druid"],
+    "ageTags": ["adult", "middle-aged", "old", "venerable"]
+  },
+  {
+    "id": "trait_impatient",
+    "description": "Impatient and struggles to wait for anything.",
+    "raceTags": ["human", "half-orc"],
+    "classTags": ["barbarian", "fighter"],
+    "ageTags": ["young", "adult"],
+    "conflictsWith": ["trait_patient"]
+  },
+  {
+    "id": "trait_sarcastic",
+    "description": "Sarcastic with a dry wit, often making others uncomfortable.",
+    "raceTags": ["tiefling"],
+    "classTags": ["warlock", "sorcerer", "rogue"],
+    "ageTags": ["young", "adult", "middle-aged"]
+  },
+  {
+    "id": "trait_pious",
+    "description": "Deeply pious and religious, following their deity's teachings closely.",
+    "raceTags": [],
+    "classTags": ["cleric", "paladin"],
+    "ageTags": ["adult", "middle-aged", "old", "venerable"]
+  },
+  {
+    "id": "trait_ruthless",
+    "description": "Ruthless in pursuing their goals, regardless of who gets hurt.",
+    "raceTags": ["tiefling"],
+    "classTags": ["warlock", "blood-hunter"],
+    "ageTags": ["adult", "middle-aged"],
+    "conflictsWith": ["trait_compassionate"]
+  },
+  {
+    "id": "trait_compassionate",
+    "description": "Compassionate and caring for others' well-being.",
+    "raceTags": [],
+    "classTags": ["cleric", "druid", "paladin"],
+    "ageTags": ["adult", "middle-aged", "old"],
+    "conflictsWith": ["trait_ruthless"]
+  },
+  {
+    "id": "trait_philosophical",
+    "description": "Philosophical and contemplative, often pondering life's big questions.",
+    "raceTags": ["elf", "human"],
+    "classTags": ["monk", "wizard", "bard"],
+    "ageTags": ["middle-aged", "old", "venerable"]
+  },
+  {
+    "id": "trait_practical",
+    "description": "Practical and pragmatic, focusing on what works rather than ideals.",
+    "raceTags": ["dwarf", "halfling"],
+    "classTags": ["fighter", "ranger", "artificer"],
+    "ageTags": ["adult", "middle-aged"]
+  },
+  {
+    "id": "trait_proud",
+    "description": "Proud of their heritage and accomplishments, sometimes to the point of arrogance.",
+    "raceTags": ["elf", "dragonborn", "tiefling"],
+    "classTags": ["paladin", "sorcerer"],
+    "ageTags": ["adult", "middle-aged", "old"]
+  },
+  {
+    "id": "trait_humble",
+    "description": "Humble despite their skills and achievements.",
+    "raceTags": ["halfling", "human"],
+    "classTags": ["monk", "druid"],
+    "ageTags": ["adult", "middle-aged", "old", "venerable"],
+    "conflictsWith": ["trait_proud"]
+  },
+  {
+    "id": "trait_secretive",
+    "description": "Secretive about their past and personal matters.",
+    "raceTags": ["tiefling", "half-elf"],
+    "classTags": ["rogue", "warlock", "blood-hunter"],
+    "ageTags": ["adult", "middle-aged", "old"]
+  },
+  {
+    "id": "trait_talkative",
+    "description": "Talkative and struggles with silence, always filling the air with conversation.",
+    "raceTags": ["gnome", "halfling"],
+    "classTags": ["bard"],
+    "ageTags": ["young", "adult", "middle-aged"],
+    "conflictsWith": ["trait_quiet"]
+  },
+  {
+    "id": "trait_quiet",
+    "description": "Quiet and reserved, speaking only when necessary.",
+    "raceTags": ["half-orc", "elf"],
+    "classTags": ["ranger", "monk"],
+    "ageTags": ["adult", "middle-aged", "old", "venerable"],
+    "conflictsWith": ["trait_talkative"]
+  },
+  {
+    "id": "trait_adventurous",
+    "description": "Adventurous and thrill-seeking, always looking for excitement.",
+    "raceTags": ["human"],
+    "classTags": ["bard", "rogue", "ranger"],
+    "ageTags": ["young", "adult"],
+    "conflictsWith": ["trait_cautious"]
+  },
+  {
+    "id": "trait_analytical",
+    "description": "Analytical and methodical, breaking down problems logically.",
+    "raceTags": ["gnome", "human"],
+    "classTags": ["wizard", "artificer"],
+    "ageTags": ["adult", "middle-aged", "old"]
+  },
+  {
+    "id": "trait_spiritual",
+    "description": "Spiritual and connected to forces beyond the material world.",
+    "raceTags": [],
+    "classTags": ["druid", "cleric", "monk"],
+    "ageTags": ["adult", "middle-aged", "old", "venerable"]
+  },
+  {
+    "id": "trait_pragmatic",
+    "description": "Pragmatic and focused on practical results rather than ideals.",
+    "raceTags": ["human", "dwarf"],
+    "classTags": ["fighter", "rogue", "artificer"],
+    "ageTags": ["adult", "middle-aged", "old"]
+  },
+  {
+    "id": "trait_traditional",
+    "description": "Traditional and holds ancient customs in high regard.",
+    "raceTags": ["dwarf", "dragonborn", "elf"],
+    "classTags": ["druid", "monk", "paladin"],
+    "ageTags": ["middle-aged", "old", "venerable"]
+  },
+  {
+    "id": "trait_progressive",
+    "description": "Progressive and forward-thinking, eager to try new ideas.",
+    "raceTags": ["human", "gnome"],
+    "classTags": ["artificer", "wizard"],
+    "ageTags": ["young", "adult"],
+    "conflictsWith": ["trait_traditional"]
+  },
+  {
+    "id": "trait_disciplined",
+    "description": "Disciplined and regimented in their daily life.",
+    "raceTags": [],
+    "classTags": ["monk", "fighter", "paladin"],
+    "ageTags": ["adult", "middle-aged", "old"]
+  },
+  {
+    "id": "trait_chaotic",
+    "description": "Chaotic and unpredictable, following whims and impulses.",
+    "raceTags": ["tiefling", "gnome"],
+    "classTags": ["barbarian", "sorcerer", "bard"],
+    "ageTags": ["young", "adult"],
+    "conflictsWith": ["trait_disciplined"]
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "id": "nuclear_family",
+    "description": "A traditional nuclear family structure",
+    "hasParents": true,
+    "hasSiblings": true,
+    "hasSpouse": true,
+    "hasChildren": true,
+    "hasExtendedFamily": false
+  },
+  {
+    "id": "single_parent",
+    "description": "A family with only one parent",
+    "hasParents": true,
+    "hasSiblings": true,
+    "hasSpouse": false,
+    "hasChildren": true,
+    "hasExtendedFamily": false
+  },
+  {
+    "id": "orphan",
+    "description": "No parents, possibly with siblings",
+    "hasParents": false,
+    "hasSiblings": true,
+    "hasSpouse": false,
+    "hasChildren": false,
+    "hasExtendedFamily": false
+  },
+  {
+    "id": "extended_family",
+    "description": "A large extended family with multiple branches",
+    "hasParents": true,
+    "hasSiblings": true,
+    "hasSpouse": true,
+    "hasChildren": true,
+    "hasExtendedFamily": true
+  },
+  {
+    "id": "childless_couple",
+    "description": "A married couple with no children",
+    "hasParents": true,
+    "hasSiblings": true,
+    "hasSpouse": true,
+    "hasChildren": false,
+    "hasExtendedFamily": false
+  },
+  {
+    "id": "only_child",
+    "description": "No siblings, just parents",
+    "hasParents": true,
+    "hasSiblings": false,
+    "hasSpouse": false,
+    "hasChildren": false,
+    "hasExtendedFamily": false
+  },
+  {
+    "id": "loner",
+    "description": "No immediate family, perhaps estranged",
+    "hasParents": false,
+    "hasSiblings": false,
+    "hasSpouse": false,
+    "hasChildren": false,
+    "hasExtendedFamily": true
+  },
+  {
+    "id": "clan_member",
+    "description": "Part of a large clan or tribe",
+    "hasParents": true,
+    "hasSiblings": true,
+    "hasSpouse": true,
+    "hasChildren": true,
+    "hasExtendedFamily": true
+  },
+  {
+    "id": "adoption",
+    "description": "Adopted by non-biological parents",
+    "hasParents": true,
+    "hasSiblings": true,
+    "hasSpouse": false,
+    "hasChildren": false,
+    "hasExtendedFamily": false
+  },
+  {
+    "id": "young_single",
+    "description": "Young person with parents and siblings",
+    "hasParents": true,
+    "hasSiblings": true,
+    "hasSpouse": false,
+    "hasChildren": false,
+    "hasExtendedFamily": false
+  },
+  {
+    "id": "elder",
+    "description": "Elderly person with extended family",
+    "hasParents": false,
+    "hasSiblings": true,
+    "hasSpouse": true,
+    "hasChildren": true,
+    "hasExtendedFamily": true
+  },
+  {
+    "id": "widow_widower",
+    "description": "Lost their spouse, possibly with children",
+    "hasParents": false,
+    "hasSiblings": true,
+    "hasSpouse": false,
+    "hasChildren": true,
+    "hasExtendedFamily": true
+  },
+  {
+    "id": "large_family",
+    "description": "Many siblings and children",
+    "hasParents": true,
+    "hasSiblings": true,
+    "hasSpouse": true,
+    "hasChildren": true,
+    "hasExtendedFamily": false
+  },
+  {
+    "id": "blended_family",
+    "description": "A family with step-siblings or step-parents",
+    "hasParents": true,
+    "hasSiblings": true,
+    "hasSpouse": true,
+    "hasChildren": true,
+    "hasExtendedFamily": true
+  },
+  {
+    "id": "community_raised",
+    "description": "Raised by an entire community or organization",
+    "hasParents": false,
+    "hasSiblings": true,
+    "hasSpouse": false,
+    "hasChildren": false,
+    "hasExtendedFamily": true
+  }
+]

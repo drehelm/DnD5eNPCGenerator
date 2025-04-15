@@ -1,0 +1,72 @@
+[
+  {
+    "id": "barbarian",
+    "name": "Barbarian",
+    "description": "A fierce warrior who can enter a battle rage"
+  },
+  {
+    "id": "bard",
+    "name": "Bard",
+    "description": "An inspiring magician whose power echoes the music of creation"
+  },
+  {
+    "id": "cleric",
+    "name": "Cleric",
+    "description": "A priestly champion who wields divine magic in service of a higher power"
+  },
+  {
+    "id": "druid",
+    "name": "Druid",
+    "description": "A priest of the Old Faith, wielding the powers of nature and adopting animal forms"
+  },
+  {
+    "id": "fighter",
+    "name": "Fighter",
+    "description": "A master of martial combat, skilled with a variety of weapons and armor"
+  },
+  {
+    "id": "monk",
+    "name": "Monk",
+    "description": "A master of martial arts, harnessing the power of the body in pursuit of physical and spiritual perfection"
+  },
+  {
+    "id": "paladin",
+    "name": "Paladin",
+    "description": "A holy warrior bound to a sacred oath"
+  },
+  {
+    "id": "ranger",
+    "name": "Ranger",
+    "description": "A warrior who combats threats on the edges of civilization"
+  },
+  {
+    "id": "rogue",
+    "name": "Rogue",
+    "description": "A scoundrel who uses stealth and trickery to overcome obstacles and enemies"
+  },
+  {
+    "id": "sorcerer",
+    "name": "Sorcerer",
+    "description": "A spellcaster who draws on inherent magic from a gift or bloodline"
+  },
+  {
+    "id": "warlock",
+    "name": "Warlock",
+    "description": "A wielder of magic that is derived from a bargain with an extraplanar entity"
+  },
+  {
+    "id": "wizard",
+    "name": "Wizard",
+    "description": "A scholarly magic-user capable of manipulating the structures of reality"
+  },
+  {
+    "id": "artificer",
+    "name": "Artificer",
+    "description": "A master of invention, creating magical devices and implements"
+  },
+  {
+    "id": "blood-hunter",
+    "name": "Blood Hunter",
+    "description": "A hunter who harnesses the power of blood magic to combat supernatural threats"
+  }
+]
